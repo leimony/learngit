@@ -10,5 +10,3 @@ Git tracks changes of flies.
 Git is my first tool.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
-Git is easy.
-Git is no easy.
